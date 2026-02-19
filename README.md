@@ -56,36 +56,28 @@ Total Employees
 
 Average Salary
 
-Average Bonus
+Total Pay
 
-Average Total Compensation
-
-Bonus Eligibility Rate
-
-Average Performance Rating
+Departmental Count
 
 Visual Insights
 
 Workforce distribution by department
 
+Workforce Distribution by gender
+
 Salary concentration across salary bands
 
 Departmental compensation comparison
 
-Bonus allocation trends
-
-Relationship between pay structure and workforce scale
-
 This page answers:
 “How is our workforce structured and what does it cost?”
 
-Page 2 — Compensation & Performance Insights
+Page 2 & 3— Compensation & Performance Insights
 
 Designed to evaluate whether rewards align with contribution.
 
 Key Visuals
-
-Average Salary by Department
 
 Bonus Distribution by Performance Rating
 
